@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Kamran  
 
-🚀 **Future Cybersecurity Engineer | AI-Powered Security Enthusiast**  
+🚀 **Future Cybersecurity Engineer | Security Enthusiast**  
 📍 Based in Azerbaijan | 🌐 Working towards a global tech career  
 
 ---
