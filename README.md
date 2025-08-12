@@ -36,12 +36,7 @@
 ✅ Apply for first **entry-level cybersecurity role**  
 ✅ Launch a **security automation SaaS prototype**  
 
----
-
-## 📈 GitHub Stats  
-![Kamran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)  
-
+---  
 ---
 
 ## 📬 Connect with Me  
