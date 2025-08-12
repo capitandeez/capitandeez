@@ -30,7 +30,7 @@
 
 ---
 
-## 🎯 2025 Goals  
+## 🎯 My Goals  
 ✅ Complete **eJPT** by mid-year  
 ✅ Build 5+ security-related GitHub projects  
 ✅ Apply for first **entry-level cybersecurity role**  
