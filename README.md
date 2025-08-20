@@ -33,8 +33,7 @@
 ## 🎯 My Goals  
 ✅ Complete **eJPT** by mid-year  
 ✅ Build 5+ security-related GitHub projects  
-✅ Apply for first **entry-level cybersecurity role**  
-✅ Launch a **security automation SaaS prototype**  
+✅ Apply for first **entry-level cybersecurity role**    
 
 ---  
 ---
