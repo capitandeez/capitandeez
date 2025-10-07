@@ -81,10 +81,6 @@ My first step into the world of cybersecurity! This project taught me about netw
 
 ---
 
-## 🤝 Connect with Me
-
-> I'm not sharing social links just yet, but feel free to check out my repositories, open an issue, or star a project!  
-> Always open to feedback, learning, and collaboration.
 
 ---
 
